@@ -1,9 +1,9 @@
 Introveriumcoin Core integration/staging tree
 =====================================
 
-[![Build Status](https://travis-ci.org/introveriumcoin-project/introveriumcoin.svg?branch=master)](https://travis-ci.org/introveriumcoin-project/introveriumcoin)
+[![Build Status](https://travis-ci.org/introverium/introveriumcoin.svg?branch=master)](https://travis-ci.org/introverium/introverium)
 
-![webp net-resizeimage](https://user-images.githubusercontent.com/40921887/44034950-9f0d25d2-9f0e-11e8-9cda-1a9085b79750.png)
+![webp net-resizeimage 2](https://user-images.githubusercontent.com/40921887/44035083-ec90802e-9f0e-11e8-9fd2-be94c4a79390.png)
 
 https://introverium.com
 
