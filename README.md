@@ -3,7 +3,7 @@ Introveriumcoin Core integration/staging tree
 
 [![Build Status](https://travis-ci.org/introveriumcoin-project/introveriumcoin.svg?branch=master)](https://travis-ci.org/introveriumcoin-project/introveriumcoin)
 
-![1024x1024](https://user-images.githubusercontent.com/40921887/44034850-69f554d2-9f0e-11e8-968f-5a7edbff1618.png)
+![webp net-resizeimage](https://user-images.githubusercontent.com/40921887/44034950-9f0d25d2-9f0e-11e8-9cda-1a9085b79750.png)
 
 https://introverium.com
 
